@@ -1,12 +1,8 @@
 ---
 title: Build selfBlog with Hexo and Netlify for free
 date: 2019-07-01 23:59:47
-tags:
+tags: Hexo Github Netlify
 ---
-
-# 使用 Hexo+Github+Netlify 搭建个人博客主页
-
-------
 
 `注意`：本文只适合准备第一次动手搭建个人博客的读者， 不涉及站面美化
 
