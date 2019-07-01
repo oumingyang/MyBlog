@@ -5,11 +5,11 @@
 # Site
 title: Mingyang'Blog
 subtitle: Don't forget to put your heart in mind.
-description: Thanks for you visit，How about leave a message? 
+description: Life and recording 
 keywords: 
 author: MingyangOu
 language: 
-timezone: China/Shanghai
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -31,7 +31,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
